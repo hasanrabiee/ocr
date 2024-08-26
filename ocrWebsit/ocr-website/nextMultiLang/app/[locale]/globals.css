@@ -1,0 +1,24 @@
+@import url('https://fonts.googleapis.com/css?family=Mulish&display=swap');
+*{
+    padding: 0;
+    margin: 0;
+}
+
+body{
+    font-family:Mulish !important ;
+    background: rgba(215, 236, 243, 0.10);
+}
+.ant-upload-text{
+    color: white !important;
+}
+.ant-upload-hint{
+    color: white !important;
+
+}
+.ant-upload-drag-icon{
+    padding: 10px 0 !important;
+}
+
+a{
+    text-decoration: none;
+}

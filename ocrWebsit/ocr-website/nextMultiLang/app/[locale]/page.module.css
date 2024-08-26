@@ -1,0 +1,47 @@
+.main{
+    padding: 0 10%;
+    /* text-align: center; */
+    margin-top: 20px;
+}
+.title__container{
+    text-align: center;
+}
+.title{
+    font-size: 40px;
+    font-weight: 700;
+}
+.subtitle{
+    margin-top: 10px;
+    font-size: 20px;
+    font-weight: 900;
+}
+.uploader__container{
+    margin-top: 100px;
+    background: linear-gradient(0deg, #006FC8, #006FC8),
+linear-gradient(0deg, rgba(39, 116, 207, 0.5), rgba(39, 116, 207, 0.5));
+    color: white !important;
+    border-radius: 4px;
+}
+
+.button_container{
+    margin-top: 20px;
+}
+
+.converted_title{
+    font-size: 28px;
+    font-weight: 700;
+    /* text-align: left; */
+    margin: 50px 0 20px;
+}
+
+.telegram__bot__section{
+    margin-top: 120px;
+    text-align: left;
+    display: flex;
+    align-items: center;
+}
+
+.telegram__bot__text__section{
+    margin: 0 30px;
+    width: 50%;
+}
